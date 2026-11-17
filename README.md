@@ -169,6 +169,6 @@ The cleaned table is ready for a PivotTable, or for loading into Power BI or Tab
 **SAMANPREET KAUR**
 BA Student | Aspiring Data Analyst, Business Analyst, and BI Developer
 
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/in/your-profile)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [Add your GitHub profile URL](https://github.com/your-username)
+- LinkedIn: [https://www.linkedin.com/in/kaursamanpreet/](https://www.linkedin.com/in/kaursamanpreet/)
+- Email: [kaursamanpreet970@outlook.com](mailto:kaursamanpreet970@outlook.com)
+- GitHub: [https://github.com/kaursamanpreet970-pixel](https://github.com/kaursamanpreet970-pixel)
